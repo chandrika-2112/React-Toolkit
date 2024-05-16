@@ -14,8 +14,9 @@ Code eg:
 
 ## Screenshots
 
-![image](https://drive.google.com/file/d/1KiQjiXCgrtOVVJvhRjV3NFZ8ooQSGluL/view?usp=drivesdk)
+
 ![WhatsApp Image 2024-05-16 at 15 17 52_22f2604b](https://github.com/chandrika-2112/React-Toolkit/assets/120263733/2a462b1a-ef08-4764-9234-417276b2b983)
 
-![image](https://drive.google.com/file/d/1Kg7qM7i-OPuJd6J51yw9AzBx2pSLkUjx/view?usp=drivesdk)
+![WhatsApp Image 2024-05-16 at 15 18 41_5a9a3cec](https://github.com/chandrika-2112/React-Toolkit/assets/120263733/e60e7718-dce5-4d58-bd41-62374177dd5a)
+
 
