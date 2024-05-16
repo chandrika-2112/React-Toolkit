@@ -14,6 +14,6 @@ Code eg:
 
 ## Screenshots
 
-![image](https://github.com/anuragsharma50/react-tooltip/assets/59228106/44f54e72-9ed0-4259-88bb-2c1ed3ef546e)
-![image](https://github.com/anuragsharma50/react-tooltip/assets/59228106/d2b50832-66ef-41b0-84dc-bc698b2f82da)
+![image](https://drive.google.com/file/d/1KiQjiXCgrtOVVJvhRjV3NFZ8ooQSGluL/view?usp=drivesdk)
+![image](https://drive.google.com/file/d/1Kg7qM7i-OPuJd6J51yw9AzBx2pSLkUjx/view?usp=drivesdk)
 
